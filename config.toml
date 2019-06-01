@@ -1,4 +1,4 @@
-baseURL = "http://blog.joefriedl.net/"
+baseURL = "https://blog.joefriedl.net/"
 languageCode = "en-us"
 title = "A Blog"
 theme = "ananke"
