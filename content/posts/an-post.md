@@ -1,12 +1,14 @@
 ---
 title: "An Post"
 date: 2019-05-31T18:15:30-04:00
-draft: true
+draft: false
 ---
 
 # Title
 
-Paragraph, etc.
+Paragraph, etc. Start typing.
+
+Anything, it's just words.
 
 - A list
 - Of things
@@ -14,4 +16,3 @@ Paragraph, etc.
 ## Smaller heading
 
 > Quote
- 
