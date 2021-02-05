@@ -1,0 +1,9 @@
+{{ define "main" }}
+    <article>
+        <header>
+            <h1>{{ .Title }}</h1>
+            <a href="{{ .Permalink }}">{{ .PublishDate.Format "January 2, 2006" }}</a>
+        </header>
+        {{ .Content }}
+    </article>
+{{ end }}
